@@ -1,4 +1,4 @@
 Im Kath
 hi guys
 im learning git rn
-testing git pull
+testing git pull and resolving conflict
