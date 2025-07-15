@@ -1,1 +1,3 @@
 Im Kath
+hi guys
+im learning git rn
