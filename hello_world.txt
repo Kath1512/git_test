@@ -1,4 +1,4 @@
 Im Kath
 hi guys
 im learning git rn
-testing git pill
+testing git pull
