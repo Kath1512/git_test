@@ -3,4 +3,4 @@ hi guys
 im learning git rn
 testing git pull and resolving conflict
 ok
-im not ok
+im not ok but im trying to fix it
